@@ -1,12 +1,1 @@
-Please find information on the puzzle assignemtn set here: https://mst.instructure.com/files/1951266/download?download_frd=1
-You have been provided a sample bash script ("run.sh"); however, you will have to modify this script to suit your needs. 
-
-Do not forget to add, commit, and push your submission files.
-
-git add FILENAME
-git commit -m "meaningfull commit message"
-git push
-
-If you have any difficulties, please contact your TAs.
-
-
+To run this puzzle, use the command "./run.sh <input file>"
